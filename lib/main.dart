@@ -13,10 +13,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'File Upload Demo',
+      title: 'eimaths',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.orange,
       ),
       home: ProfileScreen(),
     );
